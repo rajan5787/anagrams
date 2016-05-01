@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rajan/AndroidStudioProjects/android_applied_cs/anagrams/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/rajan/AndroidStudioProjects/android_applied_cs/anagrams/app/build/intermediates/pre-dexed/debug/classes-7d759a341670db1e4f8e0cf77adc76ce0e085c75.jar" />
+    </item>
+    <item
+        jar="/home/rajan/AndroidStudioProjects/android_applied_cs/anagrams/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/rajan/AndroidStudioProjects/android_applied_cs/anagrams/app/build/intermediates/pre-dexed/debug/classes-f14928cab1e231c7051f9b638884207791bd3743.jar" />
+    </item>
+    <item
+        jar="/home/rajan/AndroidStudioProjects/android_applied_cs/anagrams/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/rajan/AndroidStudioProjects/android_applied_cs/anagrams/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-54805b265b5a0dcdeeeb9e707a94544f5416679a.jar" />
+    </item>
+    <item
+        jar="/home/rajan/AndroidStudioProjects/android_applied_cs/anagrams/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/home/rajan/AndroidStudioProjects/android_applied_cs/anagrams/app/build/intermediates/pre-dexed/debug/classes-31a933cf344588ab112348527f529090bc91b0dd.jar" />
+    </item>
+    <item
+        jar="/home/rajan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/rajan/AndroidStudioProjects/android_applied_cs/anagrams/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-4a4e1b7f410ee4979d637af2a32a28e4a3d6e6da.jar" />
+    </item>
+
+</items>
